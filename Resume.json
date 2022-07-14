@@ -1,0 +1,137 @@
+{
+    "basics": {
+        "name": "Deepak Ladha",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1077@iiitkota.ac.in",
+        "phone": "+917878569721",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Ajmer,Rajasthan",
+            "postalCode": "305801",
+            "city": "Kishangarh",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "thedeepakladha",
+                "url": "https://github.com/thedeepakladha"
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Instagram",
+                "username": "depakladha_465",
+                "url": "https://instagram.com/depakladha_465"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Git",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "Football"
+            ]
+        }
+    ]
+}
